@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "RBaseX"]
+	path = RBaseX
+	url = https://github.com/benengbers/rbasex
+	shallow = true
+	registered = true
